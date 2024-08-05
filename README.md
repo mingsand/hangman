@@ -1,2 +1,2 @@
 # hangman
-C# game
+행멘
